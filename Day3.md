@@ -1,4 +1,4 @@
-```markdown
+
 # Day 3 - Agile Development, Scrum, and Scrum Ceremonies
 
 ## 📖 Introduction
@@ -226,4 +226,4 @@ Learning Agile Development and Scrum has helped me understand how modern softwar
 ## 🎯 Day 3 Completed ✅
 
 **Part of my 180-Day QA Engineer Learning Journey.**
-```
+

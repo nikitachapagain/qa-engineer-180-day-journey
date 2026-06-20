@@ -46,3 +46,6 @@ QA-180-Day-Roadmap/
 │
 ├── Introduction-to-QA/
 │   └── Day1.md
+|   └── Day2.md
+|   └── Day3.md
+|   └── Day4.md
