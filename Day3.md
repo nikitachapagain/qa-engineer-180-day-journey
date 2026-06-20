@@ -219,11 +219,12 @@ This continuous involvement helps detect defects early and improves overall soft
 
 # 📝 Summary
 
-Learning Agile Development and Scrum has helped me understand how modern software teams collaborate to deliver high-quality products efficiently. As I continue my QA learning journey, these concepts will help me better understand testing activities within Agile teams and prepare me for real-world software development environments.
+Learning Agile Development and Scrum has helped me understand how modern software teams collaborate to deliver high-quality products efficiently. As I continue my QA learning journey, these concepts will help me better understand testing activities within Agile teams and prepare me for real-world software development environments..
 
 ---
 
 ## 🎯 Day 3 Completed ✅
 
-**Part of my 180-Day QA Engineer Learning Journey.**
+**Part of QA Engineer Learning Journey.**
 
+gi
